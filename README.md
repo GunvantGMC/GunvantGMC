@@ -5,9 +5,8 @@
 - 🔭 I’m currently working on a [Quiz UI](https://play.google.com/store/apps/details?id=com.basementgeniusstudios.quizui)!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Developer's
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to Code and Anime
-- Google FooBar
+- 🥅 2021 Goals: Make More Contributions In Open Source
+- ⚡ Fun fact: I ❤️ Coding 👨‍💻 and Playing Badminton 🏸
 
 ### Connect with me:
 
