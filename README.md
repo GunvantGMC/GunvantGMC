@@ -24,10 +24,10 @@
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GunvantGMC&layout=compact&theme=radical" />
   
-  <a href="https://github.com/shubham8550/aqua-wa-automate">
+  <a href="https://github.com/GunvantGMC/aqua-wa-automate">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GunvantGMC&repo=aqua-wa-automate&theme=radical" />
   </a>
-  <a href="https://github.com/shubham8550/Google-Drive-Torrent-Downlaoder">
+  <a href="https://github.com/GunvantGMC/IndiaBeatsCovid">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GunvantGMC&repo=IndiaBeatsCovid&theme=radical" />
   </a>
 
