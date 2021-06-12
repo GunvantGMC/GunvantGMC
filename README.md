@@ -1,8 +1,8 @@
-### Hey there, I'm Gunvant Chandratre - aka [GunvantGMC][website] 👋
+### Hey there, I'm Gunvant Chandratre - aka [GunvantGMC] 👋
 
 ## I'm a Student, Developer!
 
-- 🔭 I’m currently working on a [Quiz UI](https://play.google.com/store/apps/details?id=com.basementgeniusstudios.quizui)!
+- 🔭 I’m currently working on a [Quiz UI][quizui]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Developer's
 - 🥅 2021 Goals: Make More Contributions In Open Source
@@ -56,6 +56,7 @@
 [youtube]: https://www.youtube.com/channel/UCwK6tHAd5kE18svzfMGLHMw
 [instagram]: https://www.instagram.com/shubhambadgujar222/
 [linkedin]: https://www.linkedin.com/in/shubham8550
+[quizui]: https://play.google.com/store/apps/details?id=com.basementgeniusstudios.quizui
 [jsplaylist]: #
 [cssplaylist]: #
 [reactplaylist]: #
