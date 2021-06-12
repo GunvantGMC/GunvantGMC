@@ -11,7 +11,6 @@
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -51,11 +50,10 @@
 ---
 
 [cproject]: #
-[website]: https://shubham8550.github.io/
-[twitter]: https://twitter.com/shubhampb8550
-[youtube]: https://www.youtube.com/channel/UCwK6tHAd5kE18svzfMGLHMw
-[instagram]: https://www.instagram.com/shubhambadgujar222/
-[linkedin]: https://www.linkedin.com/in/shubham8550
+[website]: https://github.com/GunvantGMC
+[twitter]: https://twitter.com/GunvantGMC
+[instagram]: https://www.instagram.com/gunvantgmc/
+[linkedin]: https://www.linkedin.com/in/gunvant-chandratre-938700182
 [quizui]: https://play.google.com/store/apps/details?id=com.basementgeniusstudios.quizui
 [jsplaylist]: #
 [cssplaylist]: #
