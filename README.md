@@ -11,9 +11,9 @@
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="<img src="https://img.icons8.com/offices/30/000000/twitter.png"/>" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://img.icons8.com/fluent/26/000000/instagram-new.png" />][instagram]
 
 <br />
 <br />
@@ -23,26 +23,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=GunvantGMC&show_icons=true&include_all_commits=true&theme=radical" alt="Gunvant's github stats" />
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GunvantGMC&layout=compact&theme=radical" />
-<a href="https://github.com/shubham8550/aqua-wa-automate">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GunvantGMC&repo=aqua-wa-automate&theme=radical" />
- </a>
- <a href="https://github.com/shubham8550/Google-Drive-Torrent-Downlaoder">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GunvantGMC&repo=IndiaBeatsCovid&theme=radical" />
-</a>
-
----
-
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
-
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+  
+  <a href="https://github.com/shubham8550/aqua-wa-automate">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GunvantGMC&repo=aqua-wa-automate&theme=radical" />
+  </a>
+  <a href="https://github.com/shubham8550/Google-Drive-Torrent-Downlaoder">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GunvantGMC&repo=IndiaBeatsCovid&theme=radical" />
+  </a>
 
 ---
 
