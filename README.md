@@ -2,7 +2,7 @@
 
 ## I'm a Student, Developer!
 
-- 🔭 I’m currently working on a [Quiz UI][cproject][https://play.google.com/store/apps/details?id=com.basementgeniusstudios.quizui]!
+- 🔭 I’m currently working on a [Quiz UI](https://play.google.com/store/apps/details?id=com.basementgeniusstudios.quizui)!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Developer's
 - 🥅 2020 Goals: Contribute more to Open Source projects
