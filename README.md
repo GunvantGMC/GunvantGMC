@@ -38,7 +38,7 @@
 [twitter]: https://twitter.com/GunvantGMC
 [instagram]: https://www.instagram.com/gunvantgmc/
 [linkedin]: https://www.linkedin.com/in/gunvant-chandratre-938700182
-[quizui]: https://play.google.com/store/apps/details?id=com.basementgeniusstudios.quizui{:target="_blank"}
+[quizui]: (https://play.google.com/store/apps/details?id=com.basementgeniusstudios.quizui){:target="_blank"}
 [jsplaylist]: #
 [cssplaylist]: #
 [reactplaylist]: #
