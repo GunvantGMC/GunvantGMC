@@ -2,7 +2,7 @@
 
 ## I'm a Student, Developer!
 
-- 🔭 I’m currently working on a [Quiz UI][quizui]!
+- 🔭 I’m currently working on a [Quiz UI][quizui](https://play.google.com/store/apps/details?id=com.basementgeniusstudios.quizui){:target="_blank"}
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Developer's
 - 🥅 2021 Goals: Make More Contributions In Open Source
@@ -38,7 +38,7 @@
 [twitter]: https://twitter.com/GunvantGMC
 [instagram]: https://www.instagram.com/gunvantgmc/
 [linkedin]: https://www.linkedin.com/in/gunvant-chandratre-938700182
-[quizui]: (https://play.google.com/store/apps/details?id=com.basementgeniusstudios.quizui){:target="_blank"}
+//[quizui]: (https://play.google.com/store/apps/details?id=com.basementgeniusstudios.quizui){:target="_blank"}
 [jsplaylist]: #
 [cssplaylist]: #
 [reactplaylist]: #
