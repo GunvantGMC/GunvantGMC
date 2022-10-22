@@ -30,6 +30,9 @@
   <a href="https://github.com/GunvantGMC/IndiaBeatsCovid">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GunvantGMC&repo=IndiaBeatsCovid&theme=radical" />
   </a>
+  <a href="https://github.com/GunvantGMC/tylset">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GunvantGMC&repo=tylset&theme=radical" />
+  </a>
 
 ---
 
