@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on a [Quiz UI][quizui]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Developer's
-- 🥅 2022 Goals: Make More Contributions In Open Source
+- 🥅 2023 Goals: Make More Contributions In Open Source
 - ⚡ Fun fact: I ❤️ Coding 👨‍💻 and Playing Badminton 🏸
 
 ### Connect with me:
